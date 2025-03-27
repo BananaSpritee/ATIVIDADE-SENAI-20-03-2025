@@ -13,7 +13,7 @@
 /* Código Login */
 
 div.fundologin {
-    background-image: url("../../public/background.png");
+    background-image: url("../../public/images/background.png");
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -84,13 +84,13 @@ button {
 }
 
 .email {
-    margin-right: 253px;
+    margin-right: 10px;
     color: rgb(236, 236, 236);
     text-shadow: 1px 1px black;
 }
 
 .password {
-    margin-right: 257px;
+    margin-right: 10px;
     color: rgb(236, 236, 236);
     text-shadow: 1px 1px black;
 }
