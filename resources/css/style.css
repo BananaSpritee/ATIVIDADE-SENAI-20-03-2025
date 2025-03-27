@@ -266,6 +266,13 @@ section.main3 {
     color: white;
 }
 
+
+.main3 .colum1 p {
+    text-align: center;
+    color: white;
+}
+
+
 .main3 .colum1 {
     padding: 0px 0px 0px 350px;
 }
